@@ -1,0 +1,61 @@
+.nav-top{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    border-bottom: 1px solid #ececec;
+}
+
+.logo{
+    max-width: 105px;
+}
+
+.link-anfitriao{
+    text-decoration: none;
+    color: #161616;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 8px;
+}
+
+.link-anfitriao:hover{
+    border-radius: 20px;
+    background-color: #eee;
+    padding: 8px;
+    text-decoration: none;
+    color: #161616;
+}
+
+.icon-nav{
+    width: 45px;
+    text-decoration: none;
+    text-align: center;
+    color: #161616;
+    padding: 6px;
+}
+
+.icon-nav:hover{
+    border-radius: 50%;
+    padding: 6px;
+    background-color: #eee;
+}
+
+.mdi-web{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.button-login{
+    display: flex;
+    align-items: center;
+    color: gray;
+    justify-content: space-around;
+    width: 80px;
+    border: 1px solid gray;
+    border-radius: 30px;
+}
+
+.button-login{
+    color: gray;
+}
+
